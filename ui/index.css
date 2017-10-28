@@ -1,0 +1,15 @@
+#doctor{
+    float:left;
+    font-size: 35px;
+}
+
+#patient{
+    float: right;
+    font-size: 35px;
+}
+
+.welcome{
+    text-align: center;
+    font-size: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
